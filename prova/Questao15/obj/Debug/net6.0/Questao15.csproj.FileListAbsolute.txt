@@ -1,0 +1,15 @@
+C:\Users\Leonardo\topcoders\prova\Questao15\bin\Debug\net6.0\Questao15.exe
+C:\Users\Leonardo\topcoders\prova\Questao15\bin\Debug\net6.0\Questao15.deps.json
+C:\Users\Leonardo\topcoders\prova\Questao15\bin\Debug\net6.0\Questao15.runtimeconfig.json
+C:\Users\Leonardo\topcoders\prova\Questao15\bin\Debug\net6.0\Questao15.dll
+C:\Users\Leonardo\topcoders\prova\Questao15\bin\Debug\net6.0\Questao15.pdb
+C:\Users\Leonardo\topcoders\prova\Questao15\obj\Debug\net6.0\Questao15.csproj.AssemblyReference.cache
+C:\Users\Leonardo\topcoders\prova\Questao15\obj\Debug\net6.0\Questao15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\topcoders\prova\Questao15\obj\Debug\net6.0\Questao15.AssemblyInfoInputs.cache
+C:\Users\Leonardo\topcoders\prova\Questao15\obj\Debug\net6.0\Questao15.AssemblyInfo.cs
+C:\Users\Leonardo\topcoders\prova\Questao15\obj\Debug\net6.0\Questao15.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\topcoders\prova\Questao15\obj\Debug\net6.0\Questao15.dll
+C:\Users\Leonardo\topcoders\prova\Questao15\obj\Debug\net6.0\refint\Questao15.dll
+C:\Users\Leonardo\topcoders\prova\Questao15\obj\Debug\net6.0\Questao15.pdb
+C:\Users\Leonardo\topcoders\prova\Questao15\obj\Debug\net6.0\Questao15.genruntimeconfig.cache
+C:\Users\Leonardo\topcoders\prova\Questao15\obj\Debug\net6.0\ref\Questao15.dll

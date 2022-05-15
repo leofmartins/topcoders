@@ -1,0 +1,15 @@
+C:\Users\Leonardo\topcoders\aula4\execicios\MatrizEncontraNumero\bin\Debug\net6.0\MatrizEncontraNumero.exe
+C:\Users\Leonardo\topcoders\aula4\execicios\MatrizEncontraNumero\bin\Debug\net6.0\MatrizEncontraNumero.deps.json
+C:\Users\Leonardo\topcoders\aula4\execicios\MatrizEncontraNumero\bin\Debug\net6.0\MatrizEncontraNumero.runtimeconfig.json
+C:\Users\Leonardo\topcoders\aula4\execicios\MatrizEncontraNumero\bin\Debug\net6.0\MatrizEncontraNumero.dll
+C:\Users\Leonardo\topcoders\aula4\execicios\MatrizEncontraNumero\bin\Debug\net6.0\MatrizEncontraNumero.pdb
+C:\Users\Leonardo\topcoders\aula4\execicios\MatrizEncontraNumero\obj\Debug\net6.0\MatrizEncontraNumero.csproj.AssemblyReference.cache
+C:\Users\Leonardo\topcoders\aula4\execicios\MatrizEncontraNumero\obj\Debug\net6.0\MatrizEncontraNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\topcoders\aula4\execicios\MatrizEncontraNumero\obj\Debug\net6.0\MatrizEncontraNumero.AssemblyInfoInputs.cache
+C:\Users\Leonardo\topcoders\aula4\execicios\MatrizEncontraNumero\obj\Debug\net6.0\MatrizEncontraNumero.AssemblyInfo.cs
+C:\Users\Leonardo\topcoders\aula4\execicios\MatrizEncontraNumero\obj\Debug\net6.0\MatrizEncontraNumero.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\topcoders\aula4\execicios\MatrizEncontraNumero\obj\Debug\net6.0\MatrizEncontraNumero.dll
+C:\Users\Leonardo\topcoders\aula4\execicios\MatrizEncontraNumero\obj\Debug\net6.0\refint\MatrizEncontraNumero.dll
+C:\Users\Leonardo\topcoders\aula4\execicios\MatrizEncontraNumero\obj\Debug\net6.0\MatrizEncontraNumero.pdb
+C:\Users\Leonardo\topcoders\aula4\execicios\MatrizEncontraNumero\obj\Debug\net6.0\MatrizEncontraNumero.genruntimeconfig.cache
+C:\Users\Leonardo\topcoders\aula4\execicios\MatrizEncontraNumero\obj\Debug\net6.0\ref\MatrizEncontraNumero.dll
